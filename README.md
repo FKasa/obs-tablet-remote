@@ -1,6 +1,7 @@
 # OBS Remote Tablet
 
 OBS Remote UI optimised for tablets, but really it works with any web browser.
+View live: http://fkasa.github.io/obs-tablet-remote/
 
 ## Building instructions
 
